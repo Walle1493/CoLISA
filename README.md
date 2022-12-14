@@ -1,6 +1,6 @@
 # CoLISA
 
-CoLISA is a retriever-reader architecture for solving long-text multi-choice machine reading comprehension. It is based on the paper: ***CoLISA: Inner Interaction via Contrastive Learning for Multi-Choice Reading Comprehension***. Authors are [Mengxing Dong](https://github.com/Walle1493), [Bowei Zou](nlp.suda.edu.cn/~zoubowei), [Yanling Li](https://github.com/jaytsien) and Yu Hong from Soochow University and Institute for Infocomm Research. The paper will be published in ECIR 2023 soon.
+CoLISA is a retriever-reader architecture for solving long-text multi-choice machine reading comprehension. It is based on the paper: ***CoLISA: Inner Interaction via Contrastive Learning for Multi-Choice Reading Comprehension***. Authors are [Mengxing Dong](https://github.com/Walle1493), [Bowei Zou](nlp.suda.edu.cn/~zoubowei), [Yanling Li](https://github.com/0308kkkk) and Yu Hong from Soochow University and Institute for Infocomm Research. The paper will be published in ECIR 2023 soon.
 
 ## Contents
 
